@@ -1,0 +1,66 @@
+
+h2 {
+    color: DeepSkyBlue;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+    border: 5px
+  }
+
+body {
+  background-color: Azure;
+}
+
+p {
+  font-family: Helvetica, sans-serif
+  border: 3px
+}
+
+#stardew {
+  color: SandyBrown;
+}
+.tdata {
+  color: LightSeaGreen;
+  text-align: left;
+  padding: 20px;
+  border: 3px solid LightSeaGreen;
+  border-collapse: collapse;
+}
+
+table {
+  size: 24px;
+  text-align: center;
+  background-color: Cornsilk;
+  border: 3px solid LightSeaGreen;
+  margin: 20px;
+  padding: 20px;
+  border-collapse: collapse;
+}
+
+.container {
+  background-color: AntiqueWhite;
+  padding: 10px;
+  margin: 20px;
+  border: 3px solid black;
+}
+.row > div {
+  font-size:20px;
+  margin: 5px;
+  padding: 5px;
+  border: 3px solid black;
+}
+
+.links {
+  background-color: GainsBoro;
+  color: black;
+  margin: 20px;
+  padding: 20px;
+  border: 3px solid black;
+}
+
+.links > li {zzzz
+  padding: 3px;
+  margin: 3px;
+  font-weight: bold;
+}

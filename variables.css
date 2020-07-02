@@ -1,0 +1,35 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/shaki\/Desktop\/project0\/variables\.scss}line{font-family:\000033}}
+div {
+  font-size: 24px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/shaki\/Desktop\/project0\/variables\.scss}line{font-family:\000036}}
+  div h2 {
+    color: DarkKhaki; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/shaki\/Desktop\/project0\/variables\.scss}line{font-family:\0000310}}
+  div ul {
+    font-size: 20px;
+    color: Crimson; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/shaki\/Desktop\/project0\/variables\.scss}line{font-family:\0000316}}
+ol {
+  font-size: 16px;
+  color: DarkCyan; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/shaki\/Desktop\/project0\/variables\.scss}line{font-family:\0000321}}
+.success, .shrink {
+  font-size: 24px;
+  font-weight: bold;
+  border: 3px solid black;
+  padding: 10px;
+  margin: 20px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/shaki\/Desktop\/project0\/variables\.scss}line{font-family:\0000328}}
+.success {
+  background-color: Aquamarine; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/shaki\/Desktop\/project0\/variables\.scss}line{font-family:\0000332}}
+.shrink {
+  background-color: BlanchedAlmond;
+  font-size: 18px;
+  padding: 5px; }
+
+/*# sourceMappingURL=variables.css.map */

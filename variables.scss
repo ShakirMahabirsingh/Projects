@@ -1,0 +1,37 @@
+$color: DarkCyan;
+
+div {
+  font-size: 24px;
+
+  h2 {
+      color: DarkKhaki;
+  }
+
+  ul {
+    font-size: 20px;
+    color: Crimson;
+  }
+}
+
+ol {
+  font-size: 16px;
+  color: $color;
+}
+
+%message {
+  font-size: 24px;
+  font-weight: bold;
+  border: 3px solid black;
+  padding: 10px;
+  margin: 20px;
+}
+.success {
+  @extend %message;
+  background-color: Aquamarine;
+}
+.shrink {
+  @extend %message;
+  background-color: BlanchedAlmond;
+  font-size: 18px;
+  padding: 5px;
+}
