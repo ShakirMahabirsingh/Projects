@@ -21,3 +21,8 @@ This project was a string of exercises testing my ability to code proper ETL pip
 csv files and was tasked with loading each into Pentaho and establishing a Fact Table at the end. The only dimension requiring additional work was the Date Dimension which needed
 to be created from scratch. I simply simulated numerous dates for a specific span of time, masked and passed the values along, then loaded it into my final table.
 Finally, after loading my tables into Tableau, I came up with two KPIs for the data and visualized accordingly. This is documented in the pdf. 
+
+
+
+---  Titanic Random Forest Survivability  ---
+This is the first data science project/competition on Kaggle. I was given a training and testing data set and was tasked with building a Random Forest Model to accurately predict whether a sample of passengers either died or not. My model took certain variables, an n of 500 and accounted for an approximate 72% prediction success rate. I can improve this model by building a tree model, pruning and finding the optimal optimizations but this required different data than what was given. This was a fun first competition and refreshed my mind on how to work with decision models!
