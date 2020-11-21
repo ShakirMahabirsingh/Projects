@@ -3,6 +3,7 @@ Every Data Scientist needs a hub to showcase their growth, progress and projects
 As I upload more projects, I will give a brief summary of each project below.
 
 
+
 ---  Covid-19 & Global Social Measures Team Project  ---
 
 This project spanned a couple weeks. I took the mantle of lead coder/developer for the project 
@@ -11,6 +12,8 @@ We found various global datasets on Kaggle and after settling on one major one, 
 Since we decided on 4 countries to analyze, it would require 4 seperate models. 
 After testing a couple linear regression models for performance, then choosing the best ones for each country, I visualized our findings. We matched these findings with 
 real life Covid social measures and was able to suggest accurate and interesting inferences. This analysis is covered in the Research Paper. 
+
+
 
 ---  ETL Database Exercises  ---
 
