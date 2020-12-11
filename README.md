@@ -6,7 +6,7 @@ As I upload more projects, I will give a brief summary of each project below.
 
 
 
-## [Covid-19 & Global Social Measures Team Project] 
+## [Covid-19 & Global Social Measures Team Project] (https://github.com/ShakirMahabirsingh/Portfolio_Website/blob/master/Covid_Global_Analysis.R)
 
 This project spanned a couple weeks. I took the mantle of lead coder/developer for the project 
 because I knew it would force me into a position requiring me to learn. By putting the weight (grade) of the entire project and my team's trust on myself, I knew I'd have to excel.
