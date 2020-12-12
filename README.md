@@ -29,3 +29,8 @@ Finally, after loading my tables into Tableau, I came up with two KPIs for the d
 ##  Titanic Random Forest Survivability
 
 This is the first data science project/competition on Kaggle. I was given a training and testing data set and was tasked with building a Random Forest Model to accurately predict whether a sample of passengers either died or not. My model took certain variables, an n of 500 and accounted for an approximate 72% prediction success rate. I can improve this model by building a tree model, pruning and finding the optimal optimizations but this required different data than what was given. This was a fun first competition and refreshed my mind on how to work with decision models!
+
+
+## Finance Data Capstone Project
+
+This was a capstone project for the Python for Data Science course on Udemy. This allowed me to utilize all of my exploratory data analysis skills with financial data. From this project we can see some notable things in regards to these very large banks during the time period of 2006 - 2016. We can explore their returns, their opening vs closing prices, and how each of these things changed over the time frame. The amount of insight to be pulled is up to the viewer but using these EDA, statistical analysis and visualization skills, I can demonstrate outcomes that would've normally been hidden. Robust visualization skills are the mark of a good data scientist!
